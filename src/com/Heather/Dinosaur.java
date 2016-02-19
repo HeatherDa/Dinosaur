@@ -7,4 +7,7 @@ public class Dinosaur {
     public void roar(){
         System.out.println("GRRR!!!!!");
     }
+    public void stomp(){
+        System.out.println("Stomp! Stomp! Stomp!");
+    }
 }
